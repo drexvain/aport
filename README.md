@@ -21,3 +21,7 @@ aport is a fast and simple tcp port scanner built with python. it allows you to 
 python aport.py -url https://example.com --top 100
 python aport.py -ip 10.0.0.1 -p 1-65535 --banner --threads 200```
 
+# how to install it 
+
+
+
