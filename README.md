@@ -13,7 +13,7 @@ aport is a fast and simple tcp port scanner built with python. it allows you to 
   --top TOP             scan a random number of ports ex: --top 100
   --common              scan most common ports
   --os                  show user's detected os
-  --verbose             soon```
+  --verbose             soon'''
 
  #usage exemples
  ```python aport.py -ip 192.168.1.1
